@@ -1,0 +1,1 @@
+A simple, easy-to-use, filesystem that mimics Hadoop and HDFS.
